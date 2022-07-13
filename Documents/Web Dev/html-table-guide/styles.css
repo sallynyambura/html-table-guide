@@ -1,0 +1,23 @@
+body{
+    background-color: lightcyan;
+}
+.header {
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+.table-title{
+    text-align: center;
+
+}
+table, th, td{
+    border: 1px solid black;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+.table-header{
+    background-color: #4A948A;
+}
+
+
+
